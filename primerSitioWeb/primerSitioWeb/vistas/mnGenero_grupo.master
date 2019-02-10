@@ -1,0 +1,12 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/home.Master" AutoEventWireup="true" CodeBehind="mnGenero_grupo.master.cs" Inherits="primerSitioWeb.vistas.mnGenero_grupo" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contenidoMenuContextual" runat="server">
+     <ul>
+           <li> <a href="DatosGenero_grupo.aspx">  Datos Genero_grupo</a></li>
+    </ul>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" runat="server">
+     <asp:ContentPlaceHolder id="contenidoPrincipal" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>

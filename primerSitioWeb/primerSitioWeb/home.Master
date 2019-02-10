@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="home.master.cs" Inherits="primerSitioWeb.home" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+   
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <div id="cabecera">
+    
+
+    <div id="contenidoCabecera">
+
+    <div id="barraHorizontal">
+    <ul>
+       <li> <a href="/vistas/FormMusico.aspx">  Musico</a></li>
+       <li> <a href="/vistas/FormGrupo.aspx">  Grupo</a></li>
+        <li> <a href="/vistas/FormGenero.aspx"> Genero</a></li>
+        <li> <a href="/vistas/FormGenero_grupo.aspx"> Gener_Grupo</a></li>
+        <li> <a href="/vistas/mnMusico_grupo.master">  Musico_Grupo</a></li>
+
+        
+    </ul>
+    
+    
+    </div>
+    <div id="logotipo">
+    <img src="/imagenes/iconos_png_695255.png" alt ="logo"/>
+    
+    </div>
+    <div id="titulo">
+    
+    
+   <h1> El mundo de la musica</h1>
+   <h2> 2019</h2>
+    
+    
+    </div>
+    
+    </div>
+    
+    </div>
+    <div id="bajo">
+    
+    <div id="columnIzq">
+    <asp:ContentPlaceHolder id="contenidoMenuContextual" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    </div>
+    <div id="ColumnCentro">
+    
+    <asp:ContentPlaceHolder id="contenidoPrincipal" runat="server">
+    </asp:ContentPlaceHolder>
+    </div>
+    <div id="columnDer">
+    
+    
+    </div>
+    <div id="pie">
+    
+    <span> Jose Luis Magaña Boyso</span>
+    </div>
+    </div>
+        
+        
+        
+    </div>
+    </form>
+</body>
+</html>

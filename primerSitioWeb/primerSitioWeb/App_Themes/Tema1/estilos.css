@@ -1,0 +1,151 @@
+﻿body {
+   background-color:black;
+}
+#cabecera
+{
+    height:150px;
+    background-color:black;
+    color:White;
+    border:1px dashed #A64E06;
+    box-shadow: 0px 0px 10px #000;
+    position:relative;
+    z-index:2;
+}
+#contenidoCabecera
+{
+    width: 960px;
+    margin:auto;
+}
+#menuContextual{
+    list-style-type:none;
+    padding:0:
+        
+}
+
+#barraHorizontal
+{
+    height:40px;
+    background-color:red;
+    border-radius:0px 0px 10px 10px;
+    box-shadow: 0px 0px 10px #000 inset;
+    text-align:center;
+}
+#barraHorizontal > ul
+{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+}
+#barraHorizontal  li
+{
+    display:inline-block;
+    padding:5px;
+    cursor:pointer;
+    background-color:black;
+    color:#A64E06;
+    box-shadow: 0px 0px 5px #000 inset;
+}
+#barraHorizontal li > a
+{
+    display:block;
+    color:#A64E06;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+
+#logotipo
+{
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-top:10px;
+}
+#logotipo >img
+{
+    box-shadow: 0px 0px 10px #000;
+    height: 99px;
+    width: 122px;
+}
+img{
+}
+
+#titulo
+{
+    width: 60%;
+    float: left;
+    text-shadow: 2px 2px 3px #000
+}
+
+#titulo >h1
+{
+    margin-top:12px;
+}
+
+#titulo >h2
+{
+    margin-bottom:0;
+}
+
+
+#bajo
+{
+    width:960px;
+    margin:auto;
+    background-color:black;
+    border-radius: 0px 0px 20px 20px;
+    overflow:auto;
+}
+
+#columnIzq, #columnDer
+{
+    float:left;
+    width:20%;
+    min-height:500px;
+}
+#ColumnCentro
+
+{
+    float:left;
+    width:60%;
+    min-height:500px;
+    background-color:White;
+    box-shadow:0px 0px 1px #000 inset;
+}
+
+#pie
+{
+    height:50px;
+    background-color:#ff0000;
+    border-radius:0px 0px 20px 20px;
+    clear:both;
+    box-shadow:0px 0px 5px #000 inset;
+    color:White;
+    text-align:center;
+    
+}
+#menuContextual
+{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+}
+
+#menuContextual > li
+{
+   
+    padding:10px;
+    text-align:center;
+    background-color:red;
+    color:White;
+    border:1px outset #A64E06;
+    box-shadow: 0px 0px 10px #000 inset;
+    
+}
+
+#menuContextual > li > a 
+{
+    text-decoration:none;
+    color:White;
+    
+}

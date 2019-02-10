@@ -1,0 +1,20 @@
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\Datos\bin\Debug\Datos.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\Datos\obj\Debug\Datos.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\Datos\obj\Debug\Datos.pdb
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\Datos\bin\Debug\Datos.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\Datos\obj\Debug\Datos.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\Datos\obj\Debug\Datos.pdb
+F:\primerSitioWeb\Datos\bin\Debug\Datos.dll
+F:\primerSitioWeb\Datos\bin\Debug\Datos.pdb
+F:\primerSitioWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\primerSitioWeb\Datos\obj\Debug\Datos.dll
+F:\primerSitioWeb\Datos\obj\Debug\Datos.pdb
+C:\Users\luis\Desktop\primerSitioWeb\Datos\bin\Debug\Datos.dll
+C:\Users\luis\Desktop\primerSitioWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\luis\Desktop\primerSitioWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\primerSitioWeb\Datos\obj\Debug\Datos.dll
+C:\Users\luis\Desktop\primerSitioWeb\Datos\obj\Debug\Datos.pdb

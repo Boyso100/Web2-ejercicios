@@ -1,0 +1,405 @@
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\ApplicationInsights.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\csc.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\vbc.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Datos.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\EntityFramework.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Owin.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\WebGrease.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Datos.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\EntityFramework.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.pdb
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\ApplicationInsights.config
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\csc.exe
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\vbc.exe
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll.config
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.pdb
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Datos.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\EntityFramework.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Owin.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\WebGrease.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Datos.pdb
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\EntityFramework.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.dll
+C:\Users\Jorge\Desktop\Escritorio WEB II\U1\Primer Formulario\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.pdb
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\ApplicationInsights.config
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\csc.exe
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\vbc.exe
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll.config
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.pdb
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Datos.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\EntityFramework.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Owin.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\WebGrease.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Datos.pdb
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.pdb
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\EntityFramework.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.dll
+C:\Users\luis\Downloads\primerWebFormASP_U1-master\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.pdb
+F:\primerSitioWeb\primerSitioWeb\bin\ApplicationInsights.config
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\csc.exe
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\vbc.exe
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe
+F:\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll.config
+F:\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll
+F:\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.pdb
+F:\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.dll
+F:\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.bootstrap.dll
+F:\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.jQuery.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Datos.dll
+F:\primerSitioWeb\primerSitioWeb\bin\EntityFramework.dll
+F:\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.WebForms.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Owin.dll
+F:\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.dll
+F:\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.dll
+F:\primerSitioWeb\primerSitioWeb\bin\WebGrease.dll
+F:\primerSitioWeb\primerSitioWeb\bin\Datos.pdb
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.pdb
+F:\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\primerSitioWeb\primerSitioWeb\bin\EntityFramework.xml
+F:\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.csprojResolveAssemblyReference.cache
+F:\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.dll
+F:\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.pdb
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\ApplicationInsights.config
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\csc.exe
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\vbc.exe
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll.config
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\primerSitioWeb.pdb
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Datos.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\EntityFramework.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Owin.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\WebGrease.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Datos.pdb
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.Web.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\System.Web.Optimization.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Antlr3.Runtime.pdb
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Newtonsoft.Json.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\EntityFramework.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\System.Web.Providers.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.dll
+C:\Users\luis\Desktop\primerSitioWeb\primerSitioWeb\obj\Debug\primerSitioWeb.pdb
