@@ -26,7 +26,26 @@ namespace Datos.DAOS{
 
         }
 
+        public Musico_Grupo getById(int id)
+        {
 
+            List<Musico_Grupo> lista = BD_Dummy.listaMusico_Grupo;
+
+            foreach (Musico_Grupo m in lista)
+            {
+
+                if (m.id_grupo == id)
+                {
+
+                    return m;
+
+                }
+
+            }
+
+            return null;
+
+        }
 
     }
 

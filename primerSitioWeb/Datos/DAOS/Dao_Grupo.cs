@@ -8,9 +8,11 @@ using System.Threading.Tasks;
 
 namespace Datos.DAOS{
 
-    public class Dao_Grupo{
+    public class Dao_Grupo
+    {
 
-        public List<Grupo> getAll(){
+        public List<Grupo> getAll()
+        {
 
             List<Grupo> lista;
             lista = BD_Dummy.listaGrupo;
@@ -19,15 +21,36 @@ namespace Datos.DAOS{
 
         }
 
-        public void add(Grupo m) {
+        public void add(Grupo m)
+        {
 
             List<Grupo> lista = BD_Dummy.listaGrupo;
             lista.Add(m);
 
         }
 
+        public Grupo getById(int id)
+        {
+
+            List<Grupo> lista = BD_Dummy.listaGrupo;
+
+            foreach (Grupo m in lista)
+            {
+
+                if (m.id_grupo == id)
+                {
+
+                    return m;
+
+                }
+
+            }
+
+            return null;
 
 
+
+        }
     }
 
 }

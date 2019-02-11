@@ -26,6 +26,27 @@ namespace Datos.DAOS{
 
         }
 
+        public Genero getById(int id)
+        {
+
+            List<Genero> lista = BD_Dummy.listaGenero;
+
+            foreach (Genero m in lista)
+            {
+
+                if (m.id_genero == id)
+                {
+
+                    return m;
+
+                }
+
+            }
+
+            return null;
+
+        }
+
 
 
     }

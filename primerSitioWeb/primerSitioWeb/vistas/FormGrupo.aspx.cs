@@ -13,7 +13,18 @@ namespace primerSitioWeb.vistas
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["idGrupo"] != null)
+            {
 
+                Dao_Grupo dao = new Dao_Grupo();
+                int id = int.Parse(Session["idGrupo"].ToString());
+                Grupo m = dao.getById(id);
+                Text_id.Text = m.id_grupo + "";
+                Text_nombre.Text = m.nombre;
+                Text_fecha_forma.SelectedDate = m.fecha_formacion;
+                Text_fecha_desin.SelectedDate = m.fecha_desintegracion;
+
+            }
         }
 
         protected void Button1_Click(object sender, EventArgs e)
@@ -27,7 +38,9 @@ namespace primerSitioWeb.vistas
             m.fecha_desintegracion = Text_fecha_desin.SelectedDate;
 
             dao.add(m);
-
+            dao.add(m);
+            Session["idGrupo"] = null;
+            Response.Redirect("DatosGrupo.aspx");
         }
     }
 }

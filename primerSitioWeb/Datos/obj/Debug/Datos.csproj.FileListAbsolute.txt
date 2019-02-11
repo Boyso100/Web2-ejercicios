@@ -18,3 +18,8 @@ C:\Users\luis\Desktop\primerSitioWeb\Datos\bin\Debug\Datos.pdb
 C:\Users\luis\Desktop\primerSitioWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 C:\Users\luis\Desktop\primerSitioWeb\Datos\obj\Debug\Datos.dll
 C:\Users\luis\Desktop\primerSitioWeb\Datos\obj\Debug\Datos.pdb
+C:\Users\luis\Documents\web2\Web2-ejercicios\primerSitioWeb\Datos\bin\Debug\Datos.dll
+C:\Users\luis\Documents\web2\Web2-ejercicios\primerSitioWeb\Datos\bin\Debug\Datos.pdb
+C:\Users\luis\Documents\web2\Web2-ejercicios\primerSitioWeb\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\luis\Documents\web2\Web2-ejercicios\primerSitioWeb\Datos\obj\Debug\Datos.dll
+C:\Users\luis\Documents\web2\Web2-ejercicios\primerSitioWeb\Datos\obj\Debug\Datos.pdb

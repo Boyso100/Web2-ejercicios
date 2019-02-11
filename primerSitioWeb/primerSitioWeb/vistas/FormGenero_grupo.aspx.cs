@@ -14,6 +14,16 @@ namespace primerSitioWeb.vistas
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            if (Session["idGenero_Grupo"] != null)
+            {
+
+                Dao_Genero_Grupo dao = new Dao_Genero_Grupo();
+                int id = int.Parse(Session["idGenero_Grupo"].ToString());
+                Genero_Grupo m = dao.getById(id);
+                Text_id_genero.Text = m.id_genero + "";
+                Text_id_grupo.Text = m.id_grupo + "";
+
+            }
         }
 
         protected void Button1_Click(object sender, EventArgs e)
@@ -25,6 +35,9 @@ namespace primerSitioWeb.vistas
             m.id_grupo = int.Parse(Text_id_grupo.Text);
 
             dao.add(m);
+            dao.add(m);
+            Session["idGenero_Grupo"] = null;
+            Response.Redirect("DatosGenero_grupo.aspx");
         }
     }
 }

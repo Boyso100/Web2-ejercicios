@@ -229,16 +229,6 @@
     <Content Include="WebForm1.aspx" />
     <Content Include="home.Master" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="FormGenero.aspx" />
-    <Content Include="FormGenero_Grupo.aspx" />
-    <Content Include="FormGrupo.aspx" />
-    <Content Include="FormMusico.aspx" />
-    <Content Include="FormMusico_Grupo.aspx" />
-    <Content Include="ListaGenero.aspx" />
-    <Content Include="ListaGenero_Grupo.aspx" />
-    <Content Include="ListaGrupo.aspx" />
-    <Content Include="ListaMusico.aspx" />
-    <Content Include="ListaMusico_Grupo.aspx" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -418,41 +408,6 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
-    <Compile Include="FormGenero.aspx.cs">
-      <DependentUpon>FormGenero.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="FormGenero.aspx.designer.cs">
-      <DependentUpon>FormGenero.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="FormGenero_Grupo.aspx.cs">
-      <DependentUpon>FormGenero_Grupo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="FormGenero_Grupo.aspx.designer.cs">
-      <DependentUpon>FormGenero_Grupo.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="FormGrupo.aspx.cs">
-      <DependentUpon>FormGrupo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="FormGrupo.aspx.designer.cs">
-      <DependentUpon>FormGrupo.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="FormMusico.aspx.cs">
-      <DependentUpon>FormMusico.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="FormMusico.aspx.designer.cs">
-      <DependentUpon>FormMusico.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="FormMusico_Grupo.aspx.cs">
-      <DependentUpon>FormMusico_Grupo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="FormMusico_Grupo.aspx.designer.cs">
-      <DependentUpon>FormMusico_Grupo.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -462,41 +417,6 @@
     </Compile>
     <Compile Include="home.Master.designer.cs">
       <DependentUpon>home.Master</DependentUpon>
-    </Compile>
-    <Compile Include="ListaGenero.aspx.cs">
-      <DependentUpon>ListaGenero.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ListaGenero.aspx.designer.cs">
-      <DependentUpon>ListaGenero.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ListaGenero_Grupo.aspx.cs">
-      <DependentUpon>ListaGenero_Grupo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ListaGenero_Grupo.aspx.designer.cs">
-      <DependentUpon>ListaGenero_Grupo.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ListaGrupo.aspx.cs">
-      <DependentUpon>ListaGrupo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ListaGrupo.aspx.designer.cs">
-      <DependentUpon>ListaGrupo.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ListaMusico.aspx.cs">
-      <DependentUpon>ListaMusico.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ListaMusico.aspx.designer.cs">
-      <DependentUpon>ListaMusico.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ListaMusico_Grupo.aspx.cs">
-      <DependentUpon>ListaMusico_Grupo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ListaMusico_Grupo.aspx.designer.cs">
-      <DependentUpon>ListaMusico_Grupo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

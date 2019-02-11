@@ -25,7 +25,7 @@
        <li> <a href="/vistas/FormGrupo.aspx">  Grupo</a></li>
         <li> <a href="/vistas/FormGenero.aspx"> Genero</a></li>
         <li> <a href="/vistas/FormGenero_grupo.aspx"> Gener_Grupo</a></li>
-        <li> <a href="/vistas/mnMusico_grupo.master">  Musico_Grupo</a></li>
+        <li> <a href="vistas/FormMusico_grupo.aspx">  Musico_Grupo</a></li>
 
         
     </ul>

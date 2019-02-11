@@ -13,5 +13,18 @@ namespace primerSitioWeb.vistas
         {
 
         }
+
+        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            GridViewRow row = GridView1.SelectedRow;
+            Session.Add("idGrupo", row.Cells[1].Text);
+            Response.Redirect("FormGrupo.aspx");
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Session.Add("idGrupo", null);
+            Response.Redirect("FormGrupo.aspx");
+        }
     }
 }

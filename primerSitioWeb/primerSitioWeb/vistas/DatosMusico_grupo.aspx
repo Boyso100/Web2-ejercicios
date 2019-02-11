@@ -1,7 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/vistas/mnMusico_grupo.master" AutoEventWireup="true" CodeBehind="DatosMusico_grupo.aspx.cs" Inherits="primerSitioWeb.vistas.DatosMusico_grupo" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="contenidoPrincipal" runat="server">
-    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="ObjectDataSource1">
+    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="ObjectDataSource1" OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
     <Columns>
+         <asp:CommandField ShowSelectButton="True" />
         <asp:BoundField DataField="id_grupo" HeaderText="id_grupo" SortExpression="id_grupo" />
         <asp:BoundField DataField="id_musico" HeaderText="id_musico" SortExpression="id_musico" />
         <asp:BoundField DataField="instrumento" HeaderText="instrumento" SortExpression="instrumento" />
@@ -10,4 +11,5 @@
     </Columns>
 </asp:GridView>
 <asp:ObjectDataSource ID="ObjectDataSource1" runat="server" SelectMethod="getAll" TypeName="Datos.DAOS.Dao_Musico_Grupo"></asp:ObjectDataSource>
+    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Agregar" />
 </asp:Content>
